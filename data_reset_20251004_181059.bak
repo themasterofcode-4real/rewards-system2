@@ -1,0 +1,30 @@
+{
+    "points": 2,
+    "days": [
+        {
+            "id": 1,
+            "date": "2025-10-04",
+            "strikes": [],
+            "point_awarded": true
+        },
+        {
+            "id": 2,
+            "date": "2025-10-04",
+            "strikes": [],
+            "point_awarded": true
+        },
+        {
+            "id": 3,
+            "date": "2025-10-04",
+            "strikes": [
+                {
+                    "rule_index": 1,
+                    "reason": "2. Do NOT disrespect babysitters, parents, your siblings, or anybody in general.",
+                    "time": "18:10:20"
+                }
+            ],
+            "point_awarded": false
+        }
+    ],
+    "undo": null
+}

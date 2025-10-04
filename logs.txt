@@ -1,0 +1,39 @@
+[2025-10-04 18:05:11] Bad data.json detected; backed up to data_corrupt_20251004_180511.bak (Empty file)
+[2025-10-04 18:05:11] New day started (Day 1)
+[2025-10-04 18:05:11] App launched
+[2025-10-04 18:05:29] Strike recorded: 1. No hitting or touching in any way that might hurt somebody else mentally or for real.
+[2025-10-04 18:05:33] Day 1 ended — +1 point awarded.
+[2025-10-04 18:05:33] New day started (Day 2)
+[2025-10-04 18:05:35] Day 2 ended — +1 point awarded.
+[2025-10-04 18:05:35] New day started (Day 3)
+[2025-10-04 18:05:35] Day 3 ended — +1 point awarded.
+[2025-10-04 18:05:35] New day started (Day 4)
+[2025-10-04 18:05:35] Day 4 ended — +1 point awarded.
+[2025-10-04 18:05:35] New day started (Day 5)
+[2025-10-04 18:05:36] Day 5 ended — +1 point awarded.
+[2025-10-04 18:05:36] New day started (Day 6)
+[2025-10-04 18:05:40] Redeemed 5 points for Toy.
+[2025-10-04 18:08:46] Backed up corrupt data.json -> data.corrupt_20251004_180846.bak (Empty file)
+[2025-10-04 18:08:46] New day started (Day 1)
+[2025-10-04 18:08:47] UI launched
+[2025-10-04 18:09:41] EndDay: +1 point for Day 1
+[2025-10-04 18:09:41] New day started (Day 2)
+[2025-10-04 18:09:42] EndDay: +1 point for Day 2
+[2025-10-04 18:09:42] New day started (Day 3)
+[2025-10-04 18:10:03] App launched
+[2025-10-04 18:10:20] Strike recorded: 2. Do NOT disrespect babysitters, parents, your siblings, or anybody in general.
+[2025-10-04 18:10:59] Reset: backed up data.json -> data_reset_20251004_181059.bak
+[2025-10-04 18:10:59] System reset to default state.
+[2025-10-04 18:10:59] New day started (Day 1)
+[2025-10-04 18:11:07] Strike recorded: 7. Be safe. If something you are doing you don't think is safe, then DON'T do it!
+[2025-10-04 18:11:11] Strike recorded: 6. Follow all directions and rules from adults or whoever is watching you.
+[2025-10-04 18:11:12] Strike recorded: 5. Stay in timeout when told!
+[2025-10-04 18:11:14] Strike limit reached for current day.
+[2025-10-04 18:11:15] Strike limit reached for current day.
+[2025-10-04 18:11:15] Strike limit reached for current day.
+[2025-10-04 18:11:15] Strike limit reached for current day.
+[2025-10-04 18:11:19] Day 1 ended — no point (strikes: 3).
+[2025-10-04 18:11:19] New day started (Day 2)
+[2025-10-04 18:11:21] Reset: backed up data.json -> data_reset_20251004_181121.bak
+[2025-10-04 18:11:21] System reset to default state.
+[2025-10-04 18:11:21] New day started (Day 1)

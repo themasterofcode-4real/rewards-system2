@@ -1,0 +1,31 @@
+{
+    "points": 0,
+    "days": [
+        {
+            "id": 1,
+            "date": "2025-10-04",
+            "strikes": [
+                {
+                    "rule_index": 6,
+                    "reason": "7. Be safe. If something you are doing you don't think is safe, then DON'T do it!",
+                    "time": "18:11:07"
+                },
+                {
+                    "rule_index": 5,
+                    "reason": "6. Follow all directions and rules from adults or whoever is watching you.",
+                    "time": "18:11:11"
+                },
+                {
+                    "rule_index": 4,
+                    "reason": "5. Stay in timeout when told!",
+                    "time": "18:11:12"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "date": "2025-10-04",
+            "strikes": []
+        }
+    ]
+}
